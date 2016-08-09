@@ -8,7 +8,10 @@
                  [ring/ring-jetty-adapter "1.4.0"]
                  [compojure "1.4.0"]
                  [hiccup "1.0.5"]]
-  :plugins [[lein-ring "0.9.7"]]
+  :min-lein-version "2.0.0"
+  :hooks [environ.leiningen.hooks]
+  :plugins [[lein-ring "0.9.7"]
+            [environ/environ.lein "0.3.1"]]
   :ring {:handler pony-namegen.web/app}
   :main ^:skip-aot pony-namegen.web
   :uberjar-name "pony-namegen-standalone.jar"
