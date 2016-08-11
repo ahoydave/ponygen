@@ -3,7 +3,8 @@
             [ring.adapter.jetty :as ring]
             [ring.middleware.params :refer [wrap-params]]
             [hiccup.page :as page]
-            [hiccup.form :as f]]
+            [hiccup.form :as f]
+            [pony-namegen.ponygen :as pony]]
   (:gen-class))
 
 (defn index []
@@ -23,7 +24,7 @@
      [:title "Hello World"]]
     [:body
      [:div {:id "content"}
-      "Text " t
+      "You name is: " (pony/to-pony t)
       ]]))
 
 (defroutes routes

@@ -1,4 +1,4 @@
-(ns pony-namegen.core-test
+(ns pony-namegen.ponygen-test
   (:require [clojure.test :refer :all]
             [pony-namegen.core :refer :all]))
 
