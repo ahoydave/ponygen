@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="284f010e-e067-4e93-bded-b579bcfe5f9a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/pony_namegen/core_test.clj" afterPath="$PROJECT_DIR$/test/pony_namegen/ponygen_test.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pony-namegen.iml" afterPath="$PROJECT_DIR$/pony-namegen.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pony_names.txt" afterPath="$PROJECT_DIR$/pony_names.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pony_namegen/ponygen.clj" afterPath="$PROJECT_DIR$/src/pony_namegen/ponygen.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pony_namegen/web.clj" afterPath="$PROJECT_DIR$/src/pony_namegen/web.clj" />
     </list>
     <ignored path="pony-namegen.iws" />
@@ -27,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.clj" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.clj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pony_namegen/web.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="600">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,8 +58,8 @@
       <file leaf-file-name="ponygen.clj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pony_namegen/ponygen.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="165">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -80,8 +78,8 @@
       <file leaf-file-name="pony_names.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pony_names.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4875">
-              <caret line="325" column="14" selection-start-line="325" selection-start-column="14" selection-end-line="325" selection-end-column="14" />
+            <state relative-caret-position="796">
+              <caret line="309" column="0" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,18 +99,19 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ponies.html" />
-        <option value="$PROJECT_DIR$/pony_names.txt" />
         <option value="$PROJECT_DIR$/test/pony_namegen/ponygen_test.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/pony_names.txt" />
         <option value="$PROJECT_DIR$/src/pony_namegen/ponygen.clj" />
         <option value="$PROJECT_DIR$/src/pony_namegen/web.clj" />
-        <option value="$PROJECT_DIR$/project.clj" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="x" value="19" />
+    <option name="y" value="57" />
+    <option name="width" value="1799" />
+    <option name="height" value="1246" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -205,7 +204,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/clojure-getting-started/project.clj" />
   </component>
-  <component name="ReplState" timestamp="1470950604906">{:repl-history {:ide [], :local [&quot;(+ 2 3)&quot; &quot;(foo)&quot; &quot;(foo \&quot;hi\&quot;)&quot; &quot;(defn foo\n  \&quot;I don't do a whole lot.\&quot;\n  [x]\n  (println x \&quot;Hello, World!\&quot;))&quot; &quot;(in-ns 'pony-namegen.core)&quot; &quot;(foo 'hi')&quot; &quot;(food \&quot;hi\&quot;)&quot; &quot;(foop \&quot;hi\&quot;)&quot; &quot;(require '[clojure.java.jdbc])&quot; &quot;(require '[clojure.java.jdbc :as sql])&quot; &quot;(sql/db-do-commands \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n                    (sql/create-table-ddl :testing [[:data :text]]))&quot; &quot;(sql/insert! \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n             :testing {:data \&quot;My Little Pony\&quot;})&quot; &quot;(sql/query \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n           [\&quot;select * from testing\&quot;])&quot; &quot;(sql/db-do-commands \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n                    \&quot;drop table testing\&quot;)&quot; &quot;(sql/create-table-ddl :testing [[:data :text]])&quot; &quot;(require 'pony-namegen.web)&quot; &quot;(pony-namegen.web/-main)&quot; &quot;(def page (html/html-resource (java.net.URL \&quot;http://mlp.wikia.com/wiki/List_of_ponies/full\&quot;)))&quot; &quot;(def page (html/html-resource (java.net.URL. \&quot;http://mlp.wikia.com/wiki/List_of_ponies/full\&quot;)))&quot; &quot;(print-headlines-and-points)&quot; &quot;(slurp \&quot;ponies.html\&quot;)&quot; &quot;(html/html-resource\n  (slurp \&quot;ponies.html\&quot;))&quot; &quot;(ns)&quot; &quot;(ns?)&quot; &quot;*ns*&quot; &quot;(in-ns 'pony-namegen.ponygen)&quot; &quot;(html/html-resource (slurp \&quot;ponies.html\&quot;))&quot; &quot;(require '[reaver :refer [parse extract-from text attr]])&quot; &quot;(def hacker-news (slurp \&quot;https://news.ycombinator.com/\&quot;))&quot; &quot;(extract-from (parse hacker-news) \&quot;.itemlist .athing\&quot;\n              [:headline :url]\n              \&quot;.title &gt; a\&quot; text\n              \&quot;.title &gt; a\&quot; (attr :href))&quot;], :remote []}}</component>
+  <component name="ReplState" timestamp="1470988463111">{:repl-history {:ide [], :local [&quot;(+ 2 3)&quot; &quot;(foo)&quot; &quot;(foo \&quot;hi\&quot;)&quot; &quot;(defn foo\n  \&quot;I don't do a whole lot.\&quot;\n  [x]\n  (println x \&quot;Hello, World!\&quot;))&quot; &quot;(in-ns 'pony-namegen.core)&quot; &quot;(foo 'hi')&quot; &quot;(food \&quot;hi\&quot;)&quot; &quot;(foop \&quot;hi\&quot;)&quot; &quot;(require '[clojure.java.jdbc])&quot; &quot;(require '[clojure.java.jdbc :as sql])&quot; &quot;(sql/db-do-commands \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n                    (sql/create-table-ddl :testing [[:data :text]]))&quot; &quot;(sql/insert! \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n             :testing {:data \&quot;My Little Pony\&quot;})&quot; &quot;(sql/query \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n           [\&quot;select * from testing\&quot;])&quot; &quot;(sql/db-do-commands \&quot;postgresql://localhost:5432/pony-namegen\&quot;\n                    \&quot;drop table testing\&quot;)&quot; &quot;(sql/create-table-ddl :testing [[:data :text]])&quot; &quot;(require 'pony-namegen.web)&quot; &quot;(pony-namegen.web/-main)&quot; &quot;(def page (html/html-resource (java.net.URL \&quot;http://mlp.wikia.com/wiki/List_of_ponies/full\&quot;)))&quot; &quot;(def page (html/html-resource (java.net.URL. \&quot;http://mlp.wikia.com/wiki/List_of_ponies/full\&quot;)))&quot; &quot;(print-headlines-and-points)&quot; &quot;(slurp \&quot;ponies.html\&quot;)&quot; &quot;(html/html-resource\n  (slurp \&quot;ponies.html\&quot;))&quot; &quot;(ns)&quot; &quot;(ns?)&quot; &quot;*ns*&quot; &quot;(in-ns 'pony-namegen.ponygen)&quot; &quot;(html/html-resource (slurp \&quot;ponies.html\&quot;))&quot; &quot;(require '[reaver :refer [parse extract-from text attr]])&quot; &quot;(def hacker-news (slurp \&quot;https://news.ycombinator.com/\&quot;))&quot; &quot;(extract-from (parse hacker-news) \&quot;.itemlist .athing\&quot;\n              [:headline :url]\n              \&quot;.title &gt; a\&quot; text\n              \&quot;.title &gt; a\&quot; (attr :href))&quot;], :remote []}}</component>
   <component name="RunManager" selected="Clojure REPL.REPL for pony-namegen">
     <configuration default="false" name="REPL for pony-namegen" type="ClojureREPL" factoryName="Local" temporary="true">
       <setting name="replType" value="1" />
@@ -348,19 +347,19 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="19" y="57" width="1799" height="1246" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875606" sideWeight="0.54770994" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32840067" sideWeight="0.551655" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23054332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.4522901" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13604853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840067" sideWeight="0.44834504" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14378029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.101309046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -487,14 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pony_names.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4875">
-          <caret line="325" column="14" selection-start-line="325" selection-start-column="14" selection-end-line="325" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/pony_namegen/ponygen_test.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -503,26 +494,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pony_names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="309" column="0" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pony_namegen/ponygen.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="165">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pony_namegen/web.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="600">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1,172 +1,310 @@
-Applejack
-Pinkie Pie
-Fluttershy
-Rainbow Dash
+Apple
+Jack
+Pinkie
+Pie
+Flutter
+Shy
+Rainbow
+Dash
 Rarity
-Twilight Sparkle
-Apple Bloom
-Scootaloo
-Sweetie Belle
+Twilight
+Sparkle
+Apple
+Bloom
+Scoota
+Loo
+Sweetie
+Belle
 Aloe
-Blue Bobbin
-Charity Kindheart
+Blue
+Bobbin
+Charity
+Kindheart
 Cheerilee
-Cherry Jubilee
-Coco Pommel
-Coloratura
-The Headless Horse
-Hoofer Steps
+Cherry
+Jubilee
+Coco
+Pommel
+Color
+Tura
+Headless
+Horse
+Hoofer
+Steps
 Junebug
-Lotus Blossom
-Mane Goodall
+Lotus
+Blossom
+Mane
+Goodall
+Mane
 Mane-iac
-Mare Do Well
-Maud Pie
-Mayor Mare
-Mrs Cup Cake
-Ms Harshwhinny
-Ms Peachbottom
-Nurse Redheart
-Orange Slice
-Photo Finish
-Prim Hemline
-Sapphire Shores
-Spoiled Rich
-Suri Polomare
-Torch Song
-Tree Hugger
-Big Daddy McColt
-Big McIntosh
+Mare
+Do-Well
+Maud
+Mayor
+Mrs
+Cupcake
+Ms
+Harshwhinny
+Ms
+Peachbottom
+Nurse
+Redheart
+Orange
+Slice
+Photo
+Finish
+Prim
+Hemline
+Sapphire
+Shores
+Spoiled
+Rich
+Suri
+Polomare
+Torch
+Song
+Tree
+Hugger
+Big-Daddy
+McColt
+Big
+McIntosh
 Braeburn
-Buried Lede
-Chargrill Breadwinner
-Cheese Sandwich
-Doc Top
-Double Diamond
-Dr Caballeron
-Filthy Rich
+Buried
+Lede
+Chargrill
+Breadwinner
+Cheese
+Sandwich
+Doc
+Top
+Double
+Diamond
+Dr
+Caballeron
+Filthy
+Rich
 Gizmo
-Gladmane
-Grub Hooffield
-Hoity Toity
-Mr Carrot Cake
-Mr Stripes
-Piles McColt
-Quibble Pants
-Sheriff Silverstar
-Silver Shill
-Stinky Bottom
+Glad
+Grub
+Hooffield
+Hoity
+Toity
+Carrot
+Cake
+Stripes
+Piles
+McColt
+Quibble
+Pants
+Sheriff
+Silverstar
+Silver
+Shill
+Stinky
+Bottom
 Svengallop
-Toe-Tapper
-Trouble Shoes
+Toe
+Tapper
+Trouble
+Shoes
 Blossomforth
-Clear Skies
-Cloud Chaser
-Crafty Crate
-Daring Do
+Clear
+Skies
+Cloud
+Chaser
+Crafty
+Crate
+Daring
+Do
 Derpy
-Flash Sentry
+Flash
+Sentry
 Flitter
-Fluffy Clouds
+Fluffy
+Clouds
 Hoops
-Lucy Packard
-Mr Shy
-Mrs Shy
-Night Glider
-Open Skies
-Songbird Serenade
-Stellar Eclipse
-Stormy Flare
-Sunshower
-Zephyr Breeze
-Fleetfoot
+Lucy
+Packard
+Night
+Glider
+Open
+Skies
+Songbird
+Serenade
+Stellar
+Eclipse
+Stormy
+Flare
+Sun
+Shower
+Zephyr
+Breeze
+Fleet
+Foot
 Soarin
 Spitfire
-Cinnamon Chai
+Cinnamon
+Chai
 Claude
-Coriander Cumin
-Doctor Horse
-Fancy Pants
-Fashion Plate
+Coriander
+Cumin
+Doctor
+Horse
+Fancy
+Pants
+Fashion
+Plate
 Flam
-Fleur Dis Lee
+Fleur
+Dis-Lee
 Flim
 Hoofdini
-Jet Set
+Jet
+Set
 Joe
-King Sombra
-Moon Dancer
-Party Favor
-Prince Blueblood
-Professor Flintheart
-Saffron Masala
-Sassy Saddles
-Shining Armor
-Starlight Glimmer
-Sugar Belle
+King
+Sombra
+Moon
+Dancer
+Party
+Favor
+Prince
+Blueblood
+Professor
+Flintheart
+Saffron
+Masala
+Sassy
+Saddles
+Shining
+Armor
+Starlight
+Glimmer
+Sugar
+Belle
 Sunburst
-Sunset Shimmer
+Sunset
+Shimmer
 Trenderhoof
-The Great and Powerful Trixie
-Upper Crust
-Zesty Gourmand
-Princess Cadance
-Princess Celestia
-Princess Luna
-Goldie Delicious
-Granny Smith
-Ma Hooffield
-The Olden Pony
+Great
+Powerful
+Trixie
+Upper
+Crust
+Zesty
+Gourmand
+Princess
+Cadance
+Princess
+Celestia
+Princess
+Luna
+Goldie
+Delicious
+Granny
+Smith
+Ma
+Hooffield
+Olden
+Pony
 Randolph
-Babs Seed
-Diamond Tiara
-Featherweight
-Flurry Heart
+Babs
+Seed
+Diamond
+Tiara
+Feather
+Weight
+Flurry
+Heart
 Pipsqueak
-Plaid Stripes
-Pound Cake
-Pumpkin Cake
+Plaid
+Stripes
+Pound
+Cake
+Pumpkin
+Cake
 Rumble
-Silver Spoon
+Silver
+Spoon
 Snails
 Snips
-Tender Taps
+Tender
+Taps
 Twist
-Zipporwhill
-Cloudy Quartz
-Limestone Pie
-Marble Pie
-Apple Brown Betty
-Apple Bumpkin
-Apple Cider
-Apple Cobbler
-Apple Dumpling
-Apple Fritter
-Apple Honey
-Apple Leaves
-Apple Munchies
-Aunt Orange
-Candy Apples
-Caramel Apple
-Florina Tart
-Gala Appleby
+Zippor
+Hill
+Cloudy
+Quartz
+Limestone
+Pie
+Marble
+Pie
+Apple
+Brown
+Betty
+Apple
+Bumpkin
+Apple
+Cider
+Apple
+Cobbler
+Apple
+Dumpling
+Apple
+Fritter
+Apple
+Honey
+Apple
+Leaves
+Apple
+Munchies
+Aunt
+Orange
+Candy
+Apples
+Caramel
+Apple
+Florina
+Tart
+Gala
+Appleby
 Jonagold
-Lavender Fritter
-Peachy Sweet
-Perfect Pie
-Red Gala
-Igneous Rock Pie
-Stinkin' Rich
-Apple Cinnamon
-Apple Split
-Golden Delicious
-Half Baked Apple
-Hayseed Turnip Truck
-Red Delicious
-Uncle Orange
+Lavender
+Fritter
+Peachy
+Sweet
+Perfect
+Pie
+Red
+Gala
+Igneous
+Rock
+Pie
+Stinkin
+Rich
+Apple
+Cinnamon
+Apple
+Split
+Golden
+Delicious
+Half
+Baked
+Apple
+Hayseed
+Turnip
+Truck
+Red
+Delicious
+Uncle
+Orange
 Wensley
-Night Light
-Twilight Velvet
+Night
+Light
+Twilight
+Velvet
 Cookie Crumbles
 Hondo Flanks
 Apple Rose

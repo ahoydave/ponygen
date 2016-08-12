@@ -24,12 +24,11 @@
      [:title "Hello World"]]
     [:body
      [:div {:id "content"}
-      "You name is: " (pony/to-pony t)
+      "You name is: " (pony/double-pony t)
       ]]))
 
 (defroutes routes
            (GET "/" [] (index))
-           (GET "/poop/" [] (show-text "poop"))
            (POST "/" [name]
                  (show-text name)))
 
